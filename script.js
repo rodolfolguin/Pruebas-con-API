@@ -1,7 +1,7 @@
 const OPTIONS = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '2fb8aae17cmsh32c9f3ab296aa70p1422a4jsna82ed3cf7c61',
+		'X-RapidAPI-Key': '',
 		'X-RapidAPI-Host': 'ip-geolocation-and-threat-detection.p.rapidapi.com'
 	}
 }
